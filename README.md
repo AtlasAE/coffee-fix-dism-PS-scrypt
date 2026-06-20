@@ -16,7 +16,7 @@ use one of these commands
 Permanent Machine-Wide Change (Requires Administrator)
 
 
-Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope LocalMachine
+"Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope LocalMachine"
 
 or
 
@@ -24,7 +24,7 @@ Permanent Change for Only Your User Account (No Admin Required)
 
 
 
-Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser -Force
+"Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser -Force"
 
 
 
