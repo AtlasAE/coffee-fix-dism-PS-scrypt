@@ -45,7 +45,7 @@ cd C:\Users\Owner\Desktop\repair
 
 after choosing yes or no at the end of the scrypd you may opt out of the any key by pressing up on the arrow keys
 
-and you may run addititional commands such as  
+and you may run addititional commands like  
 
 sfc /scannow
 
