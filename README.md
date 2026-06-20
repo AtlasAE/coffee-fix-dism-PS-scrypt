@@ -32,3 +32,15 @@ is located in example
 cd C:\Users\Owner\Desktop\repair
 
 .\fix-coffee.ps1
+
+
+
+
+after choosing yes or no at the end of the scrypd you may opt out of the any key by pressing up on the arrow keys
+
+and you may run addititional commands such as  
+
+sfc /scannow
+
+
+
